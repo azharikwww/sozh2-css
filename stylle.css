@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    margin: 20px;
+}
+
+.box {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+#main-title {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+.profile-img {
+    width: 150px;
+    height: 200px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(123, 208, 235);
+}
+
+.box p {
+    color: #333;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.footer-text {
+    text-align: center;
+}
